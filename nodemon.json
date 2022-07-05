@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "volodymyr",
+    "DB_PASSWORD": "tlpEHaKGQb0VobCK",
+    "DB_NAME": "shop"
+  }
+}
